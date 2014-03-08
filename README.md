@@ -1,4 +1,5 @@
 devoteem.github.io
 ==================
 
-webseiten backlink
+http://devoteem.de/index.php
+http://devoteem.de/biblio/
