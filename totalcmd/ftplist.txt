@@ -1,8 +1,0 @@
-ftp://devoteem@argon.selfhost.de/var/www/virtual/devoteem/html/devdata/system/logs/error.log
-
-ftp://gfinx1a@argon.selfhost.de/var/www/virtual/gfinx1a/html/css/awecss/font-awesome-ie7.min.css
-ftp://gfinx1a@argon.selfhost.de/var/www/virtual/gfinx1a/html/css/awecss/font-awesome.min.css
-ftp://gfinx1a@argon.selfhost.de/var/www/virtual/gfinx1a/html/css/awecss/font-awesome.css
-
-ftp://devoteem@argon.selfhost.de/var/www/virtual/devoteem/html/de/plugins/TIDEGetSimple/ckeditor/ckeditor.js
-ftp://devoteem@argon.selfhost.de/var/www/virtual/devoteem/html/de/plugins/TIDEGetSimple/ckeditor/config.js

@@ -1,8 +1,0 @@
-.expstickybar { position:fixed; color: white; padding: 5px; right:0; left:0;font-size: 14px;  border-top: 2px ridge #111; visibility:hidden; background: #000 url(../css3/img/blackpattern-007.png) repeat; z-index: 10000;width:auto; font-weight: normal; line-height: 1em; text-shadow: 0 0 0 #000;}
-.expstickybar a {color: #ffcc00;font-size: 1em; }
-.expstickybar a:hover {color: red; text-decoration: underline;font-size: 1em; }
-.expstickybar li, .expstickybar li a,.expstickybar ul li a{display: block; padding: 1px;font-size: 1em; }
-.resources {background: #000; }
-.resources_one {width: 25%; float:left; margin-left: 30px;  }
-.resources_two {width: 25%; float:left; }
-.resources_last {width: 25%; float:left; }
